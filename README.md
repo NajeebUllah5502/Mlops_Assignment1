@@ -43,8 +43,11 @@ Registered the best model in MLflow registry.
 ## How to Run
 
 Step 1: Clone the repository.
+
 Step 2: Install the required libraries from requirements.txt.
+
 Step 3: Run data\_preprocessing.py, model\_run.py, and model\_evaluation.py.
+
 Step 4: Start MLflow UI with the command “mlflow ui” and open it in your browser.
 
 
