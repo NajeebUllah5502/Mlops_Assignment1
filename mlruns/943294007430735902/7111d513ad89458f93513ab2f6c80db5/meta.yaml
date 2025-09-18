@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/hamya/Mlops_Assignment1/mlruns/943294007430735902/7111d513ad89458f93513ab2f6c80db5/artifacts
+end_time: 1758210176361
+entry_point_name: ''
+experiment_id: '943294007430735902'
+lifecycle_stage: active
+run_id: 7111d513ad89458f93513ab2f6c80db5
+run_name: LogisticRegression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758210172157
+status: 3
+tags: []
+user_id: hamya

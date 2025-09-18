@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/hamya/Mlops_Assignment1/mlruns/339668241318828082/307f57e6af904efe877d186d626d5c1c/artifacts
+end_time: 1758209188895
+entry_point_name: ''
+experiment_id: '339668241318828082'
+lifecycle_stage: active
+run_id: 307f57e6af904efe877d186d626d5c1c
+run_name: RandomForest
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758209184927
+status: 3
+tags: []
+user_id: hamya

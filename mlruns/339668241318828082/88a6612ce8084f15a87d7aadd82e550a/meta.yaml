@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/hamya/Mlops_Assignment1/mlruns/339668241318828082/88a6612ce8084f15a87d7aadd82e550a/artifacts
+end_time: 1758209652922
+entry_point_name: ''
+experiment_id: '339668241318828082'
+lifecycle_stage: active
+run_id: 88a6612ce8084f15a87d7aadd82e550a
+run_name: reports
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758209650618
+status: 3
+tags: []
+user_id: hamya

@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/hamya/Mlops_Assignment1/mlruns/943294007430735902/models/m-708dabdb02da475d8ffe9e27c517a3fd/artifacts
+creation_timestamp: 1758210177850
+experiment_id: '943294007430735902'
+last_updated_timestamp: 1758210180904
+model_id: m-708dabdb02da475d8ffe9e27c517a3fd
+model_type: ''
+name: model
+source_run_id: 74ec7ed375234eb9acbf7f7f9f696139
+status: 2
+status_message: null

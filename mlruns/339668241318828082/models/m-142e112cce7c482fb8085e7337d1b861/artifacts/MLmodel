@@ -1,0 +1,14 @@
+artifact_path: file:///C:/Users/hamya/Mlops_Assignment1/mlruns/339668241318828082/models/m-142e112cce7c482fb8085e7337d1b861/artifacts
+flavors:
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.2
+mlflow_version: 3.3.2
+model_id: m-142e112cce7c482fb8085e7337d1b861
+model_size_bytes: 249
+model_uuid: m-142e112cce7c482fb8085e7337d1b861
+prompts: null
+run_id: 88a6612ce8084f15a87d7aadd82e550a
+utc_time_created: '2025-09-18 15:34:11.028823'
